@@ -1,2 +1,4 @@
-# Copic Sass Colors
-***
+# Copic SASS Colors
+This is a set of variables using copic marker color names and associated hex codes for use on the web. Most of the hex codes were copied from [PaigeeDraw](http://blog.paigeedraw.com/2012/07/copic-marker-color-rgb-hex-conversion.html). Color names are sourced from [Imagination International](https://imaginationinternationalinc.com/copic/101/downloadable-resources/), from the PDF included in the repository (gladly removable if Imagination stumbles upon this and would like it excluded). 
+
+Currently the colors are prefixed with ```$copic-```, and only a small subset of them have been given names. It's a fairly tedious side project, so it will probably updated fairly infrequently, although I'm willing to take pull requests. I take no claim or credit for the file or any work put into it.
